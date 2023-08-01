@@ -60,8 +60,13 @@ print(list_of_nums)
 
 ```
 
+
+
 ## Output:
 ![output](expi.png)
+
+
+
 ![output](expii.png)
 
 
